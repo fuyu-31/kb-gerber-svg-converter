@@ -1,0 +1,29 @@
+Copyright (c) 2026 KB2218-31. All Rights Reserved.
+
+1. Permission
+
+You may use KB Gerber SVG Converter for any purpose, including personal, educational, research, and commercial use.
+
+2. Modification
+
+You may not modify, alter, or create derivative versions of KB Gerber SVG Converter without prior written permission from the copyright holder.
+
+3. Redistribution and Bundling
+
+You may not redistribute KB Gerber SVG Converter, in whole or in part, or bundle copies of its source code with another project, application, or package for distribution.
+
+You may use the converter by importing or otherwise referencing it as a separate component, provided that you do not modify or redistribute the converter itself.
+
+4. Attribution
+
+Attribution is optional. You are welcome to credit KB2218-31, but you are not required to do so.
+
+5. Ownership
+
+All copyright and other rights in KB Gerber SVG Converter remain with KB2218-31. This license does not transfer ownership of the software.
+
+6. No Warranty
+
+The software is provided "AS IS", without warranty of any kind, express or implied. The copyright holder makes no guarantee regarding its accuracy, completeness, reliability, or fitness for any particular purpose. Users are responsible for verifying conversion results before relying on them, especially for PCB manufacturing.
+
+All rights not expressly granted by this license are reserved by the copyright holder.
